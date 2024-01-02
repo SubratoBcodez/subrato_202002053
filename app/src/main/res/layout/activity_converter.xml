@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="46dp"
+    tools:context=".ConverterActivity">
+
+        <EditText
+            android:id="@+id/radiusEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Radius"
+            android:layout_marginTop="270dp" />
+
+        <Button
+            android:id="@+id/calculateButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Calculate Area"
+            android:layout_below="@id/radiusEditText"
+            android:layout_marginTop="66dp"/>
+
+        <Button
+            android:id="@+id/databaseButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Database"
+            android:layout_below="@id/calculateButton"
+            android:layout_marginTop="16dp"/>
+
+    </RelativeLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="46dp">
+
+    <ImageView
+        android:id="@+id/appIcon"
+        android:layout_width="198dp"
+        android:layout_height="142dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp"
+        android:src="@drawable/cloudy" />
+
+    <Button
+        android:id="@+id/enterButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter"
+        android:layout_below="@id/appIcon"
+        android:onClick="onEnterButtonClick"
+        android:layout_marginTop="40dp"/>
+
+    <Button
+        android:id="@+id/exitButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        android:layout_below="@id/enterButton"
+        android:layout_marginTop="16dp"
+        android:layout_centerHorizontal="true"
+        android:onClick="onExitButtonClick" />
+
+    <TextView
+        android:id="@+id/textViewForgotPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subrato Basak"
+        android:layout_below="@id/exitButton"
+        android:layout_marginTop="160dp"
+        android:clickable="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/holo_blue_dark"/>
+
+</RelativeLayout>
