@@ -1,8 +1,8 @@
-This is a Mobile Application Development Lab final Project.
-Course Code : CSE 426 _ _
-Batch : 202 D1 _ _ 
-ID : 202002053 _ _
-Course Teacher : Ms. Shifat Ara Rafiq _ _
+This is a Mobile Application Development Lab final Project. __
+Course Code : CSE 426 __
+Batch : 202 D1 __ 
+ID : 202002053 __
+Course Teacher : Ms. Shifat Ara Rafiq __
 
 Thanks.
 
