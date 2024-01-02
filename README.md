@@ -14,6 +14,12 @@ Output :
 ![image](https://github.com/SubratoBcodez/subrato_202002053/assets/122168347/eb60ffed-5e63-4861-9ebc-067a9955ddb7) | ![image](https://github.com/SubratoBcodez/subrato_202002053/assets/122168347/4a9e1c42-a88c-44af-922d-38bd627b254f)|
 
 
+| Header1 | Header2 | Header3 |
+| — — — | — — — — — -| — — — — — |
+| R1C1 | R1C2 | R1C3 |
+| R2C1 | R2C2 | R2C3 |
+
+
 
 
 
